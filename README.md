@@ -1,6 +1,4 @@
 # Sales-Performance-Report
-# Sales Performance Analysis Report
-
 ## Overview
 This Power BI project provides a comprehensive analysis of sales performance, employee details, and product insights across different categories and regions. The dashboard leverages advanced Power Query transformations, DAX measures, and interactive visuals to support data-driven decision-making.
 
