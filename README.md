@@ -52,15 +52,7 @@ This Power BI project provides a comprehensive analysis of sales performance, em
 ## Outcome
 - Enabled business stakeholders to monitor key KPIs and identify performance gaps  
 - Improved data refresh efficiency through optimized Power Query steps  
-- Delivered an interactive and scalable dashboard accessible securely via Power BI Service  
-
----
-
-## Files
-- `/PowerBI_Files` → Contains the `.pbix` report file  
-- `/Data` → Contains raw or sample datasets used for this project  
-- `/Screenshots` → Contains dashboard preview images  
-
+- Delivered an interactive and scalable dashboard accessible securely via Power BI Service
 ---
 
 ## Dashboard Preview
